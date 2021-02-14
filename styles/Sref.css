@@ -1,0 +1,13 @@
+body{
+    margin: 15%;
+  
+    background-color: rgba(0, 0, 0, 0.185);
+    background-size: 50px;
+    
+}  
+.info h1 {
+    font-size: 3rem;
+    transition: all 0.75s ease-out;
+    margin-left: 15%;
+    
+  }
